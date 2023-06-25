@@ -1,0 +1,3 @@
+Test C
+
+This is now file added in FeatureA Branch
